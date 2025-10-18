@@ -115,8 +115,8 @@ The CNN model achieved strong classification accuracy and generalized well acros
 
 **Vipin Hegde**
 Software Developer & Machine Learning Enthusiast
-📧 [Your Email Address]
-🔗 [LinkedIn Profile or Portfolio Link]
+📧 vipinhegde19@gmail.com
+🔗 www.linkedin.com/in/vipin-hegde
 
 ---
 
