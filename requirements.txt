@@ -1,0 +1,30 @@
+# Core Libraries
+
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Image Processing
+
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+# Deep Learning
+
+tensorflow==2.17.0
+keras==3.4.1
+scikit-learn==1.5.2
+
+# Web Application
+
+streamlit==1.38.0
+
+# PDF Report Generation
+
+reportlab==4.2.2
+
+# Utilities
+
+tqdm==4.66.5
+joblib==1.4.2
